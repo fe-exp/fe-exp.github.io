@@ -1,0 +1,1 @@
+import{_ as s,x as o,z as t,y as n}from"#entry";const c={},r={class:"home"};function a(_,e){return n(),o("div",r,[...e[0]||(e[0]=[t("div",{class:"bg"},null,-1)])])}const l=s(c,[["render",a]]);export{l as default};
